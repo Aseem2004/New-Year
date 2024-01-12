@@ -31,3 +31,6 @@
 <li><strong>CSS:</strong> Styles the website for a visually appealing and festive look.</li>
 <li><strong>JavaScript:</strong> Adds dynamic and interactive elements to enhance the user experience.</li>
 </ul>
+
+<h2>Contributions</h2>
+<p>Contributions to enhance the festive spirit of the website are welcome! If you have creative ideas or improvements, feel free to fork the repository and submit a pull request.</p>

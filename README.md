@@ -16,8 +16,8 @@
 
 <h2>How to Use</h2>
 <h3>1. Visit the Website:</h3>
-<p>Access the Happy New Year 2024 Website in your web browser throgh the following deployment link:
- <pre><code>https://aseem2004.github.io/New-Year/</code></pre></p>
+<p>Access the Happy New Year 2024 Website in your web browser through the following deployment link:
+<pre><code>https://aseem2004.github.io/New-Year/</code></pre></p>
 <h3>2. Explore Festive Content:</h3>
 <p>Immerse yourself in the festive visuals, explore interactive animations, and read inspiring New Year quotes.</p>
 <h3>3. Share the Joy:</h3> 
@@ -34,3 +34,7 @@
 
 <h2>Contributions</h2>
 <p>Contributions to enhance the festive spirit of the website are welcome! If you have creative ideas or improvements, feel free to fork the repository and submit a pull request.</p>
+
+<h2>Acknowledgments</h2>
+<p>A big thank you to "CoderStar's" Telegram channel who have made this festive website possible. May the New Year bring joy, success, and fulfillment to everyone!</p>
+<p>Happy New Year 2024! 🎉🥳✨</p>

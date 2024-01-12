@@ -24,3 +24,10 @@
 <p>Share the website link with your friends and family to spread the joy and celebrate together, no matter the  distance.</p>
 <h3>4. Set Resolutions:</h3>
 <p>Reflect on the past year and set optimistic resolutions for the upcoming year using the provided platform.</p>
+
+<h2>Technologies Used</h2>
+<ul>
+<li><strong>HTML:</strong> Provides the structure of the website.</li>
+<li><strong>CSS:</strong> Styles the website for a visually appealing and festive look.</li>
+<li><strong>JavaScript:</strong> Adds dynamic and interactive elements to enhance the user experience.</li>
+</ul>

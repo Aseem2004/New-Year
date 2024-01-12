@@ -13,3 +13,14 @@
 <p>The website is designed to be responsive, ensuring a seamless and delightful experience across a variety of devices.</p>
 <h3>5. Optimistic Resolutions:</h3>
 <p>Encourage users to set optimistic New Year resolutions and share their aspirations for the coming year.</p>
+
+<h2>How to Use</h2>
+<h3>1. Visit the Website:</h3>
+<p>Access the Happy New Year 2024 Website in your web browser throgh the following deployment link:
+ <pre><code>https://aseem2004.github.io/New-Year/</code></pre></p>
+<h3>2. Explore Festive Content:</h3>
+<p>Immerse yourself in the festive visuals, explore interactive animations, and read inspiring New Year quotes.</p>
+<h3>3. Share the Joy:</h3> 
+<p>Share the website link with your friends and family to spread the joy and celebrate together, no matter the  distance.</p>
+<h3>4. Set Resolutions:</h3>
+<p>Reflect on the past year and set optimistic resolutions for the upcoming year using the provided platform.</p>
